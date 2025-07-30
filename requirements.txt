@@ -1,0 +1,4 @@
+openai-whisper
+cohere
+pyttsx3
+SpeechRecognition
